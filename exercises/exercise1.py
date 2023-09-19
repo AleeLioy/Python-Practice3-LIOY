@@ -1,6 +1,7 @@
 """Variables de Instancia y Métodos de instancia."""
 
 from math import pi
+#hacer ej 1,2
 
 
 class Circle:
